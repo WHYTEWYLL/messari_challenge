@@ -1,0 +1,1 @@
+alchemyKey=https://eth-mainnet.alchemyapi.io/v2/
